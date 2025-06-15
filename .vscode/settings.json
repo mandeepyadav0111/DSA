@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": [
+        "Trie",
+        "Tree3",
+        "Tree2",
+        "Tree",
+        "Stack",
+        "Queue",
+        "Heaps",
+        "Hashing",
+        "Greedy",
+        "Graphs1",
+        "Deque",
+        "DP_Class",
+        "BackTracking",
+        "BST_2.java",
+        "BST_1.java",
+        "1.GU",
+        "Graphs2"
+    ]
+}
